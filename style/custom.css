@@ -1,0 +1,42 @@
+.introduction .well{
+    min-width: 300px;
+    min-height: 300px;
+}
+
+.sheel-image {
+height: 55%;
+width: 100%;
+object-fit: cover;
+display: block;
+margin-top: auto;
+margin-bottom: auto;
+object-position: 0px 0px;
+}
+
+.legends{
+    height:15px;
+    width:15px;
+    display:inline-block;
+    margin-top:10px
+ }
+ .html{
+    background:#c2aae6
+ }
+ .css{
+    background:#ffdf8a
+ }
+ .js{
+    background:#acc88c
+ }
+ .reactjs{
+    background:#a8def7
+ }
+ .nodejs{
+    background:#f76495
+ }
+ .aws{
+    background:#f7c72b
+ }
+ .db{
+     background: rgb(86, 182, 247);
+ }
