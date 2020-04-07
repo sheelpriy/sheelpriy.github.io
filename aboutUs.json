@@ -1,0 +1,44 @@
+{
+	"aboutUs": [{
+			"id": "1",
+			"answer": "No, We are not. We are trying to help you all to get the latest updates from Authorities.",
+			"qno": "1",
+			"question": "Are you official?"
+		},
+		{
+			"id": "2",
+			"answer": "We are using state bulletins and official handles to update our numbers. The data is validated by a group of volunteers and published into a Google sheet and an API. API is available for all at api.covid19india.org. We would love it if you can use this data in the fight against this virus. \n",
+			"qno": "2",
+			"question": "What are your sources? How is the data gathered for this project?"
+		},
+		{
+			"id": "3",
+			"answer": "Govt. official websites publish their data on scheduled time, which is usually very slow practivce. However, we update them based on state press bulletins, official handles and reliable news channels which could be more recent.",
+			"qno": "4",
+			"question": "Why does cov19india.com have more positive count than MoH?"
+		},
+		{
+			"id": "4",
+			"answer": "We are a group of dedicated volunteers who curate and verify the data coming from several sources. We are just trying to spread awareness about this virus so that we all can fight more effectively together.",
+			"qno": "3",
+			"question": "Who are you?"
+		},
+		{
+			"id": "5",
+			"answer": "Nice question, well we are doing this as our bit to the society and the nation. You can help others by providing them essentials or donate to PM care.",
+			"qno": "5",
+			"question": "Why are you guys putting in time and resources to do this while not gaining a single penny from it?"
+		}
+	],
+	"socials": [{
+			"id": 1,
+			"name": "twitter",
+			"url": " / twitter "
+		},
+		{
+			"id": 2,
+			"name": "twitter",
+			"url": " / twitter "
+		}
+	]
+}
