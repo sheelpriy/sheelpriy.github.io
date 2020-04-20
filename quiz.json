@@ -1,339 +1,227 @@
-{quiz:[
+[
     {
-        "topicId": 100004,
-        "title": "Identify the movie",
-        "meta": {
-            "imgUrl": "https://sheelpriy.github.io//images/q.m101.jpg"
-        },
-        "weight": 1,
-        "type": "IMG",
-        "id": 10001,
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
         "answerOptions": [
-            {
-                "id": 100011,
-                "text": "Titanic"
-            },
-            {
-                "id": 100012,
-                "text": "Interstellar"
-            },
-            {
-                "id": 100013,
-                "text": "Piku"
-            },
-            {
-                "id": 100014,
-                "text": "Swades"
-            }
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
         ]
     },
     {
-        "topicId": 100004,
-        "title": "Identify the movie",
-        "meta": {
-            "imgUrl": "https://sheelpriy.github.io//images/q.m102.jpg"
-        },
-        "weight": 1,
-        "type": "IMG",
-        "id": 10002,
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
         "answerOptions": [
-            {
-                "id": 100011,
-                "text": "Titanic"
-            },
-            {
-                "id": 100012,
-                "text": "Interstellar"
-            },
-            {
-                "id": 100013,
-                "text": "Piku"
-            },
-            {
-                "id": 100014,
-                "text": "Swades"
-            }
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
         ]
     },
     {
-        "topicId": 100004,
-        "title": "Identify the movie",
-        "meta": {
-            "imgUrl": "https://sheelpriy.github.io//images/q.m103.jpg"
-        },
-        "weight": 1,
-        "type": "IMG",
-        "id": 10003,
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
         "answerOptions": [
-            {
-                "id": 100011,
-                "text": "Titanic"
-            },
-            {
-                "id": 100012,
-                "text": "Interstellar"
-            },
-            {
-                "id": 100013,
-                "text": "Piku"
-            },
-            {
-                "id": 100014,
-                "text": "Swades"
-            }
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
         ]
     },
     {
-        "topicId": 100004,
-        "title": "Identify the movie",
-        "meta": {
-            "imgUrl": "https://sheelpriy.github.io//images/q.m101.jpg"
-        },
-        "weight": 1,
-        "type": "IMG",
-        "id": 10004,
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
         "answerOptions": [
-            {
-                "id": 100011,
-                "text": "Titanic"
-            },
-            {
-                "id": 100012,
-                "text": "Interstellar"
-            },
-            {
-                "id": 100013,
-                "text": "Piku"
-            },
-            {
-                "id": 100014,
-                "text": "Swades"
-            }
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
         ]
     },
     {
-        "topicId": 100004,
-        "title": "Identify the movie",
-        "meta": {
-            "imgUrl": "https://sheelpriy.github.io//images/q.m101.jpg"
-        },
-        "weight": 1,
-        "type": "IMG",
-        "id": 10005,
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
         "answerOptions": [
-            {
-                "id": 100011,
-                "text": "Titanic"
-            },
-            {
-                "id": 100012,
-                "text": "Interstellar"
-            },
-            {
-                "id": 100013,
-                "text": "Piku"
-            },
-            {
-                "id": 100014,
-                "text": "Swades"
-            }
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
         ]
     },
     {
-        "topicId": 100004,
-        "title": "Identify the movie",
-        "meta": {
-            "imgUrl": "https://sheelpriy.github.io//images/q.m101.jpg"
-        },
-        "weight": 1,
-        "type": "IMG",
-        "id": 10006,
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
         "answerOptions": [
-            {
-                "id": 100011,
-                "text": "Titanic"
-            },
-            {
-                "id": 100012,
-                "text": "Interstellar"
-            },
-            {
-                "id": 100013,
-                "text": "Piku"
-            },
-            {
-                "id": 100014,
-                "text": "Swades"
-            }
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
         ]
     },
     {
-        "topicId": 100004,
-        "title": "Identify the movie",
-        "meta": {
-            "imgUrl": "https://sheelpriy.github.io//images/q.m101.jpg"
-        },
-        "weight": 1,
-        "type": "IMG",
-        "id": 10007,
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
         "answerOptions": [
-            {
-                "id": 100011,
-                "text": "Titanic"
-            },
-            {
-                "id": 100012,
-                "text": "Interstellar"
-            },
-            {
-                "id": 100013,
-                "text": "Piku"
-            },
-            {
-                "id": 100014,
-                "text": "Swades"
-            }
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
         ]
     },
     {
-        "topicId": 100004,
-        "title": "Identify the movie",
-        "meta": {
-            "imgUrl": "https://sheelpriy.github.io//images/q.m101.jpg"
-        },
-        "weight": 1,
-        "type": "IMG",
-        "id": 10008,
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
         "answerOptions": [
-            {
-                "id": 100011,
-                "text": "Titanic"
-            },
-            {
-                "id": 100012,
-                "text": "Interstellar"
-            },
-            {
-                "id": 100013,
-                "text": "Piku"
-            },
-            {
-                "id": 100014,
-                "text": "Swades"
-            }
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
         ]
     },
     {
-        "topicId": 100004,
-        "title": "Identify the movie",
-        "meta": {
-            "imgUrl": "https://sheelpriy.github.io//images/q.m101.jpg"
-        },
-        "weight": 1,
-        "type": "IMG",
-        "id": 10009,
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
         "answerOptions": [
-            {
-                "id": 100011,
-                "text": "Titanic"
-            },
-            {
-                "id": 100012,
-                "text": "Interstellar"
-            },
-            {
-                "id": 100013,
-                "text": "Piku"
-            },
-            {
-                "id": 100014,
-                "text": "Swades"
-            }
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
         ]
     },
     {
-        "topicId": 100004,
-        "title": "Identify the movie",
-        "meta": {
-            "imgUrl": "https://sheelpriy.github.io//images/q.m101.jpg"
-        },
-        "weight": 1,
-        "type": "IMG",
-        "id": 10010,
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
         "answerOptions": [
-            {
-                "id": 100011,
-                "text": "Titanic"
-            },
-            {
-                "id": 100012,
-                "text": "Interstellar"
-            },
-            {
-                "id": 100013,
-                "text": "Piku"
-            },
-            {
-                "id": 100014,
-                "text": "Swades"
-            }
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
         ]
     },
     {
-        "topicId": 100004,
-        "title": "Identify the movie",
-        "meta": {
-            "imgUrl": "https://sheelpriy.github.io//images/q.m101.jpg"
-        },
-        "weight": 1,
-        "type": "IMG",
-        "id": 10011,
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
         "answerOptions": [
-            {
-                "id": 100011,
-                "text": "Titanic"
-            },
-            {
-                "id": 100012,
-                "text": "Interstellar"
-            },
-            {
-                "id": 100013,
-                "text": "Piku"
-            },
-            {
-                "id": 100014,
-                "text": "Swades"
-            }
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
         ]
     },
     {
-        "topicId": 100004,
-        "title": "Identify the movie",
-        "meta": {
-            "imgUrl": "https://sheelpriy.github.io//images/q.m101.jpg"
-        },
-        "weight": 1,
-        "type": "IMG",
-        "id": 10012,
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
         "answerOptions": [
-            {
-                "id": 100011,
-                "text": "Titanic"
-            },
-            {
-                "id": 100012,
-                "text": "Interstellar"
-            },
-            {
-                "id": 100013,
-                "text": "Piku"
-            },
-            {
-                "id": 100014,
-                "text": "Swades"
-            }
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
+        ]
+    },
+    {
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
+        "answerOptions": [
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
+        ]
+    },
+    {
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
+        "answerOptions": [
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
+        ]
+    },
+    {
+        "topicId": 100019,
+        "title": 'Identify the movie',
+        "meta": { imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg' },
+        imgUrl: 'https://sheelpriy.github.io//images/q.m101.jpg',
+        weight: 1,
+        type: 'IMG',
+        id: 10015,
+        "answerOptions": [
+            { id: 100011, text: "Titanic" },
+            { id: 100012, text: "Interstellar" },
+            { id: 100013, text: "Piku" },
+            { id: 100014, text: "Swades" },
         ]
     }
 ]
-};
