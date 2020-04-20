@@ -1,4 +1,4 @@
-[
+{quiz:[
     {
         "topicId": 100004,
         "title": "Identify the movie",
@@ -335,4 +335,5 @@
             }
         ]
     }
-];
+]
+};
